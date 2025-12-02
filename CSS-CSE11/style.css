@@ -1,0 +1,103 @@
+/* h2{color: blue;
+    text-align: center;
+}
+p{
+    color: red, green, blue;
+    text-align: center;
+    font-size: 25px;
+}
+.par{
+    color: yellowgreen;
+    background-color: black;
+}
+#ac{
+    color: antiquewhite;
+}
+#pp{
+    color: rgb(red, green, blue,);
+}
+div{
+    height: 200px;
+    width: 200px;
+    color: red;
+    background-color: cadetblue;
+    text-align: center;
+    align-content: center;
+    padding: 40px;
+    margin: 200px;
+    border: 5px double;
+} */
+/* div{
+    align-content: center;
+    padding-top: 5px;
+    margin: 10px;
+    border: 10px solid;
+}
+h3{
+    text-align:left;
+    color: red;
+    align-content:center ;
+}
+h1{
+    text-align: center;
+    color:magenta;
+    align-content: center;
+} */
+
+/* span.jk{
+    color: rgb(133, 133, 43);
+    font-size: 30px;
+    font-weight: bold;
+}
+span.kk{
+    color: rgb(102, 28, 28);
+    font-size: 25px;
+    font-weight: bold;
+}
+span.lk{
+    color: rgb(99, 99, 225);
+    font-size: 20px;
+    font-weight: bold;
+}
+span.mk{
+    color: rgb(28, 102, 28);
+    font-size: 15px;
+    font-weight: bold;
+}
+span.nk{
+    color: rgb(102, 28, 92);
+    font-size: 10px;
+    font-weight: bold;
+} */
+/* div.container{
+    text-align: center;
+    align-content: center;
+    margin: 10px;
+    color:rgb(118, 118, 30);
+    height: 200px;
+    width: 150px;
+} */
+
+img{
+    height: 400px;
+    width: 300px;
+    border: 10px ;
+    margin: 20px;
+    padding: 15px;
+    float: left;
+}
+
+p.paragraph{
+    text-align: center;
+    color: rgb(28, 102, 92);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p.footer{
+    text-align: center;
+    color: grey;
+    font-size: 25px;
+    font-weight: bold;
+    clear: both;
+}
