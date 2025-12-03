@@ -1,0 +1,57 @@
+/* @media conition {
+    CSS rules here 
+}
+@media(max-width) {
+    body {
+        background:;
+     }
+}
+320-small phone
+480-large phone
+768-tablet
+1024-small laptop  
+1200+-desktop */
+/* @media (max-width: 768px) {
+    p{
+        font-size: 25px;
+        background-color: blue;
+    }
+} */
+.box{
+    width: 100%;
+    height: 100px;
+    background-color: lightblue;
+}
+@media (min-width: 768px) {
+    .box{
+        background-color: red;
+    }
+}
+@media (min-width: 768px) {
+    .li{
+        list-style: none;
+        text-decoration: none;
+    }
+}
+nav ul{
+   display: flex;
+   justify-content: space-around;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+@media (min-width: 768px) {
+    div{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: lightgrey;
+        text-decoration: none;
+    }  
+}
+div ul{
+    list-style: none;
+    text-decoration: none;
+}
